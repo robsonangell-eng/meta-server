@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Servidor para meta tags dinâmicas e redirecionamento de produtos",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
