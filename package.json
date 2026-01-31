@@ -1,11 +1,12 @@
 {
   "name": "meta-server",
   "version": "1.0.0",
+  "description": "Servidor para meta tags dinâmicas e redirecionamento de produtos",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.22.1"
+    "express": "^4.18.2"
   }
 }
